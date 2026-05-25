@@ -12,17 +12,23 @@
 
 Приложение в реальном времени мониторит качество городского воздуха (AQI) и предлагает идеальные локации высоко в горах (Медеу, Шымбулак, Кок-Жайляу), где прямо сейчас светит солнце и чистый воздух.
 
-<h3 align="center">Интерфейс приложения</h3>
+# 🌬️ Demal - Clean Air App
+
+Check AQI in Almaty, especially hiking and mountain spots.
+
+<h3 align="center">📲 Interface Overview (Glassmorphism & Native Integration)</h3>
 
 <p align="center">
-  <img src="путь_к_первой_картинке.png" width="280" alt="Главный экран (Live AQI)">
+  <img src="images/dashboard.png" width="300" alt="Main Dashboard (Live AQI)">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="путь_ко_второй_картинке.png" width="280" alt="Построение маршрута (MapKit)">
+  <img src="images/map_route.png" width="300" alt="Map Routing (MapKit)">
 </p>
 
 <p align="center">
-  <i>Слева: Дашборд AQI с использованием SwiftUI. Справа: Интеграция нативного MapKit.</i>
+  <i>Темный полупрозрачный интерфейс (в стиле глассморфизма) на 100% написан на SwiftUI. Он обеспечивает обновление данных AQI в реальном времени от Open-Meteo и построение маршрутов в чистые зоны с помощью нативного MapKit.</i>
 </p>
+
+---
 
 
 ## ✨ Ключевые возможности
